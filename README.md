@@ -30,7 +30,7 @@ To run the Roman Numeral Converter, you'll need:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/roman-numeral-converter.git
+   git clone https://github.com/victormeloasm/RomansToDecimal.git
    ```
 
 2. Navigate to the project directory:
@@ -86,6 +86,3 @@ Please follow the [code of conduct](CODE_OF_CONDUCT.md) and ensure your code adh
 
 This Roman Numeral Converter is open-source and available under the [MIT License](LICENSE.md).
 
----
-
-Feel free to customize this `README.md` to suit your project's needs. You can add more sections, screenshots, or additional details as required.
